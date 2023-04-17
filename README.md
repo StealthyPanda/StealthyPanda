@@ -1,7 +1,7 @@
-<h1 align="center">Yo, it's Touseef(aka StealthyPanda🐼)</h1>
+<h1 align="center">Yo, it's Touseef (aka StealthyPanda🐼)</h1>
 <h3 align="center">Keep climbing the tech tree.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthypanda&label=Profile%20views&color=0e75b6&style=flat" alt="stealthypanda" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthypanda&label=Profile%20views&color=0e75b6&style=flat" alt="stealthypanda" /> </p> -->
 
 - 🌱 I’m currently learning **quantum computing**
 
