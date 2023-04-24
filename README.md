@@ -3,13 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthypanda&label=Profile%20views&color=0e75b6&style=flat" alt="stealthypanda" /> </p> -->
 
-- 🌱 I’m currently learning **quantum computing**
-
-- 💬 Ask me about **quaternions**
-
-- 📫 How to reach me **touseef.1@iitj.ac.in**
-
-- ⚡ Fun fact **I don't use arch, btw.**
+<div aling = "center">
+Primarily a Python, C and Java dev, occasionally dabbling in JS, Haskell, Rust and Zig. Obsessed with Quantum Computing and low level programming/hardware, and learning about ML-DL.
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
