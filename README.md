@@ -5,13 +5,13 @@
 
 
 <div align = "center">
-Primarily a Python, C and Java dev, occasionally dabbling in JS, Haskell, Rust and Zig. Obsessed with Quantum Computing and low level programming/hardware, and learning about ML-DL. Currently in the process of cleaning up my github (organising all the random code uploaded over the years) to be more presentable.
+    Primarily a Python, C/C++ and Java dev, occasionally dabbling in JS, Haskell, Rust and Zig. Obsessed with Quantum Computing and low level programming/hardware, and learning about ML-DL. Currently in the process of cleaning up my github (organising all the random code uploaded over the years) to be more presentable.
 </div>
 
 ---
 
 ## Connect with me
-<p align="left">
+<!-- <p align="left"> -->
 <!-- <a href="https://instagram.com/stealthy_panda101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stealthy_panda101" height="30" width="40" /></a> -->
 <!-- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedinlogo" height="30"/> -->
 <!-- </p> -->
@@ -32,8 +32,8 @@ Primarily a Python, C and Java dev, occasionally dabbling in JS, Haskell, Rust a
 
 <br>
 
-<a href = "https://sites.google.com/iitj.ac.in/stealthypanda/home">
-<img src = "https://img.shields.io/badge/🏠Personal_page-blue?style=for-the-badge" alt = "pageadge" height=40 align="center"/>
+<a href = "https://sites.google.com/iitj.ac.in/stealthypanda/home" >
+<img src = "https://img.shields.io/badge/🏠Personal_page-blue?style=for-the-badge" alt = "pageadge" height=40 />
 </a>
 
 ---
